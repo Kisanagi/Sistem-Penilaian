@@ -19,10 +19,4 @@ Aplikasi web untuk mengelola nilai akademik siswa secara digital. Dirancang untu
 - Melihat nilai per mata pelajaran
 - Mengekspor laporan nilai pribadi ke PDF
 
-## Akun Default
 
-| Role | Username | Password |
-|------|----------|----------|
-| Admin | admin | admin123 |
-
-Akun guru dan siswa dibuat oleh admin melalui dashboard.
